@@ -1,0 +1,6 @@
+
+        <svg width="200" height="300">
+            <rect x="13" y="60" width="175" height="175" fill="Blue"/>
+            <text x="40" y="170" fill="Green" font-size="75">CAR</text>
+        </svg>
+    
